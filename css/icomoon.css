@@ -695,6 +695,7 @@
 }
 .icon-envelope:before {
   content: "\f0e0";
+ 
 }
 .icon-linkedin:before {
   content: "\f0e1";
@@ -1524,13 +1525,13 @@
 .icon-weixin:before {
   content: "\f1d7";
 }
-.icon-paper-plane:before {
+.icon icon-envelope:before {
   content: "\f1d8";
 }
 .icon-send:before {
   content: "\f1d8";
 }
-.icon-paper-plane-o:before {
+.icon icon-envelope-o:before {
   content: "\f1d9";
 }
 .icon-send-o:before {
