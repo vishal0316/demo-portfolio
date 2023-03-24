@@ -6427,7 +6427,7 @@ button.bg-dark:focus {
 
 .position-sticky {
   position: -webkit-sticky !important;
-  position: sticky !important; }
+  position: relative !important; }
 
 .fixed-top {
   position: fixed;
@@ -8171,7 +8171,7 @@ h1, h2, h3, h4, h5,
   left: 0;
   right: 0;
   z-index: 3; }
-  @media (max-width: 991.98px) {
+  @media (max-width: 500px) {
     .ftco-navbar-light {
       background: #000000 !important;
       position: relative;
@@ -9217,7 +9217,7 @@ textarea.form-control {
 .img,
 .blog-img,
 .user-img {
-  background-size: cover;
+  
   background-repeat: no-repeat;
   background-position: center center; }
 
