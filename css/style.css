@@ -9394,14 +9394,15 @@ textarea.form-control {
     height: 100px;
     background: rgba(255, 255, 255, 0.1);
     margin: 0 auto;
-    margin-bottom: 2em;
+    
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
     border-radius: 50%; }
     .contact-section .box .icon span {
       color:#fe312e;
-      font-size: 30px; }
+      font-size: 30px;
+    line-height: 3; }
   .contact-section .box h3 {
     font-size: 17px;
     font-weight: 500;
@@ -9409,6 +9410,12 @@ textarea.form-control {
 
 .contact-section .contact-form {
   width: 100%; }
+
+.side-image{
+  width: 300px;
+  padding-top: 20%;
+  padding-left: 5%;
+}  
 
 .contact-section .img {
   width: 100%;
